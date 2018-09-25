@@ -1,4 +1,4 @@
-***Exercise 1.1***
+***Exercise 1.2***
 
 Define an immutable variable with the value 50 that represents the side of a square. 
 
