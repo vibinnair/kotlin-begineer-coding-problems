@@ -1,3 +1,7 @@
-Create a program that defines two immutable variables of type **Int**.
-Then define a third variable that stores the sum of the first two varaiables and displays them.
-Then store in the variable the product of the first two variables and show the result. 
+***Exercise 1.1***
+
+Define an immutable variable with the value 50 that represents the side of a square. 
+
+In another two immutable variables store the **surface** and **the perimeter** of the square.
+
+Display the **surface** and **perimeter** of the Console.
