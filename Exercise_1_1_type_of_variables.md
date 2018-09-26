@@ -1,4 +1,4 @@
-**Exercise 1.1**
+***Exercise 1.1***
 
 Create a program that defines two immutable variables of type **Int**.
 
