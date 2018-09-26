@@ -5,5 +5,5 @@ Load two integers per keyboard and print your sum and your product.
 
 
 
-***References: 
+***References:*** 
 https://www.programiz.com/kotlin-programming/input-output
