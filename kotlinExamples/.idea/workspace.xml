@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8f4a4c-5f27-47f5-b50b-2cc0f14dc4f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList-Insertion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_3_ArrayList_Updation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_4_ArrayList_Deletion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_1_Create_ArrayList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_1_Create_And_Iterate_ArrayList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList-Insertion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList_Insertion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/kotlinExamples.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/kotlinExamples.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,47 +31,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="11" />
+          <entry key="kt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="11" />
+          <entry key="Kotlin" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Kotlin Console" value="22" />
-          <entry key="kt" value="2242" />
+          <entry key="kt" value="2716" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="2264" />
+          <entry key="Kotlin" value="2738" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_1_1_types.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_2_1_sum_and_products.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_2_3_amount_to_pay.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +90,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList-Insertion.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList_Insertion.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_3_ArrayList_Updation.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_4_ArrayList_Deletion.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -158,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_1.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList-Iteration.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList-Insertion.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_3_ArrayList_Updation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_4_ArrayList_Deletion.kt" />
       </list>
     </option>
   </component>
@@ -231,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539001022610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539004564217" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -248,33 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinExamples.Exercise_3_2_ArrayList_InsertionKt">
-    <configuration name="kotlinExamples.Exercise_2_3_amount_to_payKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinExamples" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples.Exercise_2_3_amount_to_payKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kotlinExamples.Exercise_2_4_sum_and_productsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinExamples" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples.Exercise_2_4_sum_and_productsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.kotlinExamples.Exercise_3_4_ArrayList_DeletionKt">
     <configuration name="kotlinExamples.Exercise_2_5_sum_and_averageKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinExamples" />
       <option name="VM_PARAMETERS" />
@@ -314,20 +291,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kotlinExamples.Exercise_3_3_ArrayList_UpdationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinExamples" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples.Exercise_3_3_ArrayList_UpdationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinExamples.Exercise_3_4_ArrayList_DeletionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinExamples" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples.Exercise_3_4_ArrayList_DeletionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.kotlinExamples.Exercise_2_3_amount_to_payKt" />
-      <item itemvalue="Kotlin.kotlinExamples.Exercise_2_4_sum_and_productsKt" />
       <item itemvalue="Kotlin.kotlinExamples.Exercise_2_5_sum_and_averageKt" />
       <item itemvalue="Kotlin.kotlinExamples.Exercise_3_1_Create_And_Iterate_ArrayListKt" />
       <item itemvalue="Kotlin.kotlinExamples.Exercise_3_2_ArrayList_InsertionKt" />
+      <item itemvalue="Kotlin.kotlinExamples.Exercise_3_3_ArrayList_UpdationKt" />
+      <item itemvalue="Kotlin.kotlinExamples.Exercise_3_4_ArrayList_DeletionKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlinExamples.Exercise_3_4_ArrayList_DeletionKt" />
+        <item itemvalue="Kotlin.kotlinExamples.Exercise_3_3_ArrayList_UpdationKt" />
         <item itemvalue="Kotlin.kotlinExamples.Exercise_3_2_ArrayList_InsertionKt" />
         <item itemvalue="Kotlin.kotlinExamples.Exercise_3_1_Create_And_Iterate_ArrayListKt" />
         <item itemvalue="Kotlin.kotlinExamples.Exercise_2_5_sum_and_averageKt" />
-        <item itemvalue="Kotlin.kotlinExamples.Exercise_2_4_sum_and_productsKt" />
-        <item itemvalue="Kotlin.kotlinExamples.Exercise_2_3_amount_to_payKt" />
       </list>
     </recent_temporary>
   </component>
@@ -346,17 +349,18 @@
       <workItem from="1538027865835" duration="339000" />
       <workItem from="1538634563067" duration="580000" />
       <workItem from="1538718794768" duration="1914000" />
-      <workItem from="1538986366632" duration="2041000" />
+      <workItem from="1538986366632" duration="4110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8992000" />
+    <option name="totallyTimeSpent" value="11061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="87" y="93" width="1400" height="795" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26804122" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26804122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +369,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,10 +452,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList-Insertion.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_2_ArrayList_Insertion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.70/kotlin-stdlib-1.2.70-sources.jar!/kotlin/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="215" column="24" selection-start-line="215" selection-start-column="24" selection-end-line="215" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_3_ArrayList_Updation.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/kotlinExamples/Exercise_3_4_ArrayList_Deletion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
